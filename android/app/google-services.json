@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "828198424535",
+    "firebase_url": "https://flat-chat-ac9a8.firebaseio.com",
+    "project_id": "flat-chat-ac9a8",
+    "storage_bucket": "flat-chat-ac9a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828198424535:android:22adf9ed70ab8de9014592",
+        "android_client_info": {
+          "package_name": "co.bright.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828198424535-gcs2gvcnekje5sdk5rlpci1a2337u2mo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqkQWa9B0M-MrRrdf2y5mc2Kqf81SDSqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828198424535-gcs2gvcnekje5sdk5rlpci1a2337u2mo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
